@@ -1,0 +1,22 @@
+Dataset Description
+
+This project uses a hypothetical logistics shipment dataset.
+
+The dataset contains approximately 5,000 shipment records.
+
+Features include:
+
+Distance_KM
+Traffic_Level
+Weather_Severity
+Vehicle_Type
+Warehouse_Delay_Min
+Driver_Experience_Years
+Package_Weight_KG
+Route_Stops
+
+Target variable:
+Delivery_Time_Hours
+
+The dataset is intended for demonstrating predictive modeling
+and optimization techniques in a logistics environment.
